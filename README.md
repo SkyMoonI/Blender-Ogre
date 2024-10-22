@@ -6,3 +6,7 @@ Here is a project I made by watching Udemy course.
 Here is the blend file : https://disk.yandex.com.tr/d/EVB-shH1pJWFsw
 
 ![Ogre_Cover1](https://github.com/user-attachments/assets/dea5347c-25c6-437e-85f9-5c32a5ae2e15)
+
+
+https://github.com/user-attachments/assets/635832ff-1edf-41a9-8613-d1430b473851
+
